@@ -86,7 +86,13 @@ Open HR_Analytics_Dashboard.pbix in Power BI.
 
 Explore interactive visualizations and insights.
 
+## dataset
+https://github.com/Vaibhav-0501/HR-analytics-dashboard/blob/main/HR_Analytics.csv
+
 ## screenshot of the dashboard
+
+![WhatsApp Image 2025-02-22 at 15 15 52_4302b00d](https://github.com/user-attachments/assets/80285bb9-1380-4b54-a0db-262e5687fe59)
+
 
 
 
